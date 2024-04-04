@@ -22,7 +22,8 @@
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img aling="center" alt="Gib.Dsjs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"/>
-    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-          
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
           
 </div>
