@@ -16,7 +16,7 @@
 
 
 ##
-<div>  
+<div align="center">
     <img aling="center" alt="Gib.Html5" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img aling="center" alt="Gib.Css3" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
