@@ -2,7 +2,14 @@
 
 ## Olá! Eu sou o Giovanni!🎈
 
- Apaixonado por tecnologia, eterno curioso, adoro trazer eficiência por onde passo e por mudar a vida das pessoas através da programação.
+I'm passionate about technology and solving problems using programming.
+
+I'm becoming a Backend in development and a data analyst 💻
+
+📚 I have fun while learning to program
+💙 Always looking to collaborate on projects.
+
+Thanks for the visit.
 
 <div>
   <a href="https://github.com/GiovanniB6">
@@ -25,6 +32,5 @@
     <img aling="center" alt="Gib.Dsjs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-          
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> 
 </div>
