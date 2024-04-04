@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou o Giovanni!🎈
 
-I'm passionate about technology and solving problems using programming.
+I am passionate about technology and solving problems using programming.
 
 I'm becoming a Backend in development and a data analyst 💻
 
