@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8957e5&height=120&section=header"/>
 
-## Olá! Eu sou o **Giovanni!**🎈
+## Olá! Eu sou o Giovanni!🎈
 
  Apaixonado por tecnologia, eterno curioso, adoro trazer eficiência por onde passo e por mudar a vida das pessoas através da programação.
 
@@ -20,10 +20,10 @@
     <img aling="center" alt="Gib.Html5" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img aling="center" alt="Gib.Css3" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img aling="center" alt="Gib.Dsjs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
           
 </div>
