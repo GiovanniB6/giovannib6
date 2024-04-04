@@ -10,19 +10,13 @@ I'm becoming a Backend in development and a data analyst 💻
 💙 Always looking to collaborate on projects.
 
 - Thanks for the visit.
-
-<div>
-  <a href="https://github.com/GiovanniB6">
-</div>
    
-### GitHub Stats ⚡
+### GitHub Stats 📡
 <div align="center">
   <img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/??username=GiovanniB6&layout=compact&langs_count=7&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api??username=GiovanniB6&show_icons=true&bg_color=0D1117&text_color=C9D1D9&title_color=ffff&icon_color=8957e5&hide_border=true" />
 </div>
 
-
-##
 <div align="center">
     <img aling="center" alt="Gib.Html5" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img aling="center" alt="Gib.Css3" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
