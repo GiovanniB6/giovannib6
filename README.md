@@ -9,7 +9,7 @@ I'm becoming a Backend in development and a data analyst 💻
 📚 I have fun while learning to program
 💙 Always looking to collaborate on projects.
 
-Thanks for the visit.
+- Thanks for the visit.
 
 <div>
   <a href="https://github.com/GiovanniB6">
