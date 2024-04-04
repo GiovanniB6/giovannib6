@@ -25,5 +25,6 @@
     <img aling="center" alt="Gib.Dsjs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
     <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+    <img aling="center" alt="Gib.Js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
           
 </div>
