@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8957e5&height=120&section=header"/>
-
 ## Olá! Eu sou o Giovanni!🎈
 
 I am passionate about technology and solving problems using programming.
 
 I'm becoming a Backend in development and a data analyst 💻
 
-📚 I have fun while learning to program
+📚 I have fun while learning to program.
+
 💙 Always looking to collaborate on projects.
 
 - Thanks for the visit.
