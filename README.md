@@ -4,7 +4,7 @@
 
 I am passionate about technology and solving problems using programming.
 
-I'm becoming a Backend in development and a data analyst 💻
+I'm becoming a Backend developer, currently working as a data analyst 💻
 
 📚 I have fun while learning to program.
 
